@@ -1,0 +1,9 @@
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\bin\Debug\yn-arduino-comunikasi-ComToApi.exe.config
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\bin\Debug\yn-arduino-comunikasi-ComToApi.exe
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\bin\Debug\yn-arduino-comunikasi-ComToApi.pdb
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\obj\Debug\yn-arduino-comunikasi-ComToApi.csprojResolveAssemblyReference.cache
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\obj\Debug\yn_arduino_comunikasi_ComToApi.Form1.resources
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\obj\Debug\yn_arduino_comunikasi_ComToApi.Properties.Resources.resources
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\obj\Debug\yn-arduino-comunikasi-ComToApi.csproj.GenerateResource.Cache
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\obj\Debug\yn-arduino-comunikasi-ComToApi.exe
+c:\users\yayan\documents\visual studio 2013\Projects\yn-arduino-comunikasi-ComToApi\yn-arduino-comunikasi-ComToApi\obj\Debug\yn-arduino-comunikasi-ComToApi.pdb
